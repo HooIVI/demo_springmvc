@@ -31,3 +31,5 @@ logs/
 # system ignore
 .DS_Store
 Thumbs.db
+lib/
+src/test/
