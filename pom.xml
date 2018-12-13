@@ -8,14 +8,14 @@
     <artifactId>demo_springmvc</artifactId>
     <packaging>war</packaging>
     <version>0.0.1-SNAPSHOT</version>
-
-    <name>demp_springmvc</name>
+    <name>demo_springmvc</name>
     <url>http://maven.apache.org</url>
+    <description>Demo project for Spring MVC</description>
 
     <properties>
-        <spring.version>4.3.4.RELEASE</spring.version>
         <java.version>1.8</java.version>
         <java.encoding>UTF-8</java.encoding>
+        <spring.version>4.3.4.RELEASE</spring.version>
     </properties>
 
     <dependencies>
@@ -40,7 +40,7 @@
     </dependencies>
 
     <build>
-        <finalName>demp_springmvc</finalName>
+        <finalName>demo_springmvc</finalName>
         <resources>
             <resource>
                 <directory>src/main/resources</directory>
